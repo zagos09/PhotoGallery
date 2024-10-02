@@ -2,6 +2,6 @@ PhotoGallery is a simple web-based gallery built using HTML and CSS. This projec
 
 Features
 
-Responsive Design: Adjusts to various screen sizes for better user experience.
+-Responsive Design: Adjusts to various screen sizes for better user experience.
 
-Image Grid: Organized display of photos in a grid format.
+-Image Grid: Organized display of photos in a grid format.
